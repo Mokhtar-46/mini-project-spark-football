@@ -1,0 +1,2 @@
+v1
+{"path":"file:///home/jovyan/work/mini-project-spark-football/outputs/streaming/realtime_stats/part-00000-b5cd1b31-97b2-4d2d-83bc-48ae1d001c60-c000.snappy.parquet","size":555,"isDir":false,"modificationTime":1776568360206,"blockReplication":1,"blockSize":33554432,"action":"add"}
